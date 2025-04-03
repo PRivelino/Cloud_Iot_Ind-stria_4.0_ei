@@ -6,8 +6,8 @@ numero2 = int(input('Digite outro numero:'))
 
 soma = numero1 + numero2
 print(soma)
-subtração = numero1 + numero2
-print(subtração)
+subtracao = numero1 + numero2
+print(subtracao)
 # Divisão
-divisão = numero1/numero2
-print(divisão)
+divisao = numero1/numero2
+print(divisao)
